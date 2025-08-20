@@ -19,7 +19,7 @@ GitHub is a way keep your past history of Git.
 Commiting is savin your changes on your device so you and others can see your work, and pushing is pushing the button to save it.
 
 **3. What is a repository and what does it contain?**
-
+The repository is the project folder to save your work
 
 ---
 
@@ -27,7 +27,7 @@ Commiting is savin your changes on your device so you and others can see your wo
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+(https://github.com/dillshannon?tab=repositories)
 
 ---
 
@@ -35,7 +35,7 @@ Commiting is savin your changes on your device so you and others can see your wo
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I am most excited to learn about how AI can be used to do help peoples every day jobs. It is interesting to me because it can turn into something that while it will begin taking peoples jobs, it should in theory do their jobs quickly and perfectly. Im also excited to learn about the future of AI, and how it could become more advanced to have the ability to do things like think for itself, but still make sure we can control it so stuff like in the movies doesnt happen.
 
 ---
 
