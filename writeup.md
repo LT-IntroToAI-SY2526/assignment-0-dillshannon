@@ -16,11 +16,10 @@ GitHub is a way keep your past history of Git.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commiting is savin your changes on your device so you and others can see your work, and pushing is pushing the button to save it.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
 
 ---
 
